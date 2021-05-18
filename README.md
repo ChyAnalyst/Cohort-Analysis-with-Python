@@ -5,7 +5,7 @@ A data exploratory and Data visualization  Project  using  " Food Relay Data" to
 - Monthly Behaviour of Users
 - Cohort Group
 - Cohort Period
-- User Retention using Pandas and Numpy packages 
+- User Retention using  
 
 
 These results were plotted on:
@@ -14,8 +14,9 @@ These results were plotted on:
 
 # Built with
 
-- Pandas -data analysis and manipulation tool
-- matplotlib - data visualization library
-- seaborn - data visaualization library
+- Pandas 
+- Numpy
+- matplotlib 
+- seaborn 
  
  
