@@ -1,6 +1,6 @@
 # Cohort-Analysis-with-Python
 
-A data exploratory and Data visualization  Project to determine:
+A data exploratory and Data visualization  Project  of " Food Relay Data" to determine:
 
 - Monthly Behaviour of Users
 - Cohort Group
