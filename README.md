@@ -5,7 +5,7 @@ A data exploratory and Data visualization  Project  using  " Food Relay Data" to
 - Monthly Behaviour of Users
 - Cohort Group
 - Cohort Period
-- User Retention using  
+- User Retention  
 
 
 These results were plotted on:
