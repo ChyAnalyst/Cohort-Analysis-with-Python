@@ -1,6 +1,6 @@
 # Cohort-Analysis-with-Python
 
-A data exploratory and Data visualization  Project  of " Food Relay Data" to determine:
+A data exploratory and Data visualization  Project  using  " Food Relay Data" to determine:
 
 - Monthly Behaviour of Users
 - Cohort Group
@@ -8,6 +8,14 @@ A data exploratory and Data visualization  Project  of " Food Relay Data" to det
 - User Retention using Pandas and Numpy packages 
 
 
- These results were plotted  using:
- - Line Graph with Matplotlib
- - Heat Map with Seaborn
+These results were plotted on:
+- Line Graph
+- Heat Map 
+
+# Built with
+
+- Pandas -data analysis and manipulation tool
+- matplotlib - data visualization library
+- seaborn - data visaualization library
+ 
+ 
